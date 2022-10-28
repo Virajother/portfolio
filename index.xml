@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi I&#39;m Viraj ! on Viraj Bhat Prabhu</title>
+    <link>https://virajother.github.io//portfolio/</link>
+    <description>Recent content in Hi I&#39;m Viraj ! on Viraj Bhat Prabhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://virajother.github.io//portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Precision Farming Advisor</title>
+      <link>https://virajother.github.io//portfolio/post/project-1/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-1/</guid>
+      <description>The motivation behind this project Conventional agriculture causes increased greenhouse gas emissions, soil erosion, water pollution and wastage. It affects Farmers negatively as well
+Agenda To tackle these issues we use precision farming approach and recommend optimum crops to be cultivated by farmers based on several parameters and help them make an informed decision before cultivation
+What is Precision Farming ? Precision farming is an approach where inputs are utilised in precise amounts to get increased average yields</description>
+    </item>
+    
+    <item>
+      <title>Player Recommendation System</title>
+      <link>https://virajother.github.io//portfolio/post/project-6/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-6/</guid>
+      <description>Motivation Behind The Project Imagine your favourite team lost its most important player through a transfer, who are the players that can replace him/her ? who posseses similar XG, XA and similar style of play ? Thats one of the main questions that fans and teams always think about. We need a model that can show you the most similar players to your chosen player as rapidly as possible in real time</description>
+    </item>
+    
+    <item>
+      <title>Multiple Disease Detection</title>
+      <link>https://virajother.github.io//portfolio/post/project-2/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-2/</guid>
+      <description>The motivation behind this project Providing accurate and accessible diagnoses is a fundamental challenge for global healthcare systems .An estimated 5% of outpatients receive the wrong diagnosis every year in U.S alone. Early and accurate diagnosis of diseases can help avoid long-term complications for the infected patient
+Agenda To support human providers by enabling quicker service, diagnosing patients, and analyzing data to identify medical trends that may predispose someone to a particular disease</description>
+    </item>
+    
+    <item>
+      <title>Posture tracking with Tensorflow.js</title>
+      <link>https://virajother.github.io//portfolio/post/project-8/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-8/</guid>
+      <description>Aim of The Project The Goal is to create a complete end-to-end Posture detection project using a pre-trained PoseNet model.
+What is PoseNet? Posenet is a deep learning TensorFlow model that allows you to estimate human pose by detecting body parts such as elbows, hips, wrists, knees, ankles, and form a skeleton structure of your pose by joining these points.
+How Do We Implement This Project  Javascript was used as we had to do all the work in the browser We used P5.</description>
+    </item>
+    
+    <item>
+      <title>Audio Signal Processing With TensorFlow</title>
+      <link>https://virajother.github.io//portfolio/post/project-4/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-4/</guid>
+      <description>The Task The Challenge is to build a model to count the number of Capuchinbird calls within a given clip of sound recording
+Project Explanation   Audio files are few minutes long but our train files (parsed_capuchin/not_capuchin .wav files) are hardly a few seconds long
+  we will convert the audio file into segments of few seconds and make our model predict and sum these predictions to get the final count</description>
+    </item>
+    
+    <item>
+      <title>T20 Score Prediction System</title>
+      <link>https://virajother.github.io//portfolio/post/project-3/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-3/</guid>
+      <description>Aim of The Project To build a model that can predict the final score of the batting team given the match conditions
+Project Timeline  Collected data from various websites Perform Exploratory Data Analysis on previous T-20i matches Prepared data for Model Training Selected suitable model i.e XGboost Regressor for Result Prediction Used Python for analytics with efficient validation techniques Created API using Streamlit  Stills From The App     Link To The Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Face Mask Detection</title>
+      <link>https://virajother.github.io//portfolio/post/project-5/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-5/</guid>
+      <description>Motivation Behind The Project The rapid spreading of Coronavirus disease is a major health risk that the whole world is facing for the last two years. One of the main causes of the fast spreading of this virus is the direct contact of people with each other
+There are many precautionary measures to reduce the spread of this virus; however, the major one is wearing face masks in public places. Detection of face masks in public places is a real challenge that needs to be addressed to reduce the risk of spreading the virus</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Chat Analyzer</title>
+      <link>https://virajother.github.io//portfolio/post/project-7/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-7/</guid>
+      <description>The motivation behind this project There is always a thought about who talks the most in a whatsapp group or in personal chats, which words or emojis does everyone use the most. The motivation was to create an app to feed this anaytical curiosity of your mind
+Agenda Create a tool which generates insights regarding whatsapp chats which can be used both for personal as well as group chats through use of python and Natural Language Processing</description>
+    </item>
+    
+    <item>
+      <title>Stock Trend Prediction</title>
+      <link>https://virajother.github.io//portfolio/post/project-9/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/post/project-9/</guid>
+      <description>Aim of The Project Stock price analysis has been a critical area of research and is one of the top applications of machine learning. We will create a tool to help discover the future value of company stock and other financial assets traded on an exchange
+How Do We Implement This Project  For the stocks we will use yahoo finance To convert this stock data into a dataframe object we will make use of the pandas data reader library We will create a Stacked LSTM (Long Short Term Memory) Network for building our model to predict the stock prices We will build an API using Streamlit  Link To The Github Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://virajother.github.io//portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://virajother.github.io//portfolio/about/</guid>
+      <description>My name is Viraj and i am a data scientist from Goa-India. I also hold a bachelor&amp;rsquo;s degree in mechanical engineering. I realised i had passion for understanding the math and statistics involved in the events that occur, whether in sports matches or in the things that affect our day-to-day life. This led me to the amazing field of data science. I consider myself a &amp;ldquo;forever student&amp;rdquo; eager to learn more of the things this field has to offer, eager to both build on my academic foundations and stay in tune with the latest advancement through continued work</description>
+    </item>
+    
+  </channel>
+</rss>
